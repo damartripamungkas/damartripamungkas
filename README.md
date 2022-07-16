@@ -9,7 +9,6 @@ Backend developer
 * ✉️  You can contact me at [damartripamungkas.gmail.com](mailto:damartripamungkas.gmail.com)
 
 ### Skills
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -40,20 +39,23 @@ Backend developer
 <a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+<a href="https://geth.ethereum.org/" target="_blank" rel="noreferrer"><img src="https://geth.ethereum.org/static/images/mascot.png" width="36" height="36" alt="Geth" /></a>
+<a href="https://eta.js.org/" target="_blank" rel="noreferrer"><img src="https://eta.js.org/img/logo.svg" width="36" height="36" alt="EtaJs" /></a>
+<a href="https://npmjs.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="36" height="36" alt="NpmJs" /></a>
+<a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/300/1*YVTFl1UEkt3_rkez-DIU9w.png" width="36" height="36" alt="TelegramBot" /></a>
+<a href="https://github.com/adiwajshing/Baileys" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2Y7897kze0BpSVfsVKQqGNdTm6OA9ROq55f2YUaDa3JbqcTnTmosHZ6WcJlmGYMphpk&usqp=CAU" width="36" height="36" alt="WhatsappBot" /></a>
+<a href="https://github.com/typicode/lowdb" target="_blank" rel="noreferrer"><img src="https://www.opensourceagenda.com/projects/lowdb/image.png" width="36" height="36" alt="Lowdb" /></a>
+<a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png" width="36" height="36" alt="Solidity" /></a>
 </p>
 
-
 ### Socials
-
 <p align="left"> <a href="https://www.github.com/damartripamungkas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Personal production project
-
 <p align="left">
 <a href="https://github.com/damartripamungkas/botdexdamar" target="_blank" rel="noreferrer"><img src="https://github.com/damartripamungkas/botdexdamar/raw/main/images/logo.png" width="100" height="100" alt="botdexdamar" /></a>
 
 ### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/damartripamungkas"><img src="https://github-readme-stats.vercel.app/api?username=damartripamungkas&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="damartripamungkas's GitHub stats" /></a>
