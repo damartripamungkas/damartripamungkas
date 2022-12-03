@@ -1,7 +1,7 @@
 Hi 👋 My name is Damar Tripamungkas
 ===================================
 
-Backend developer
+Software Engineer / Fullstack Developer
 -----------------
 
 * 🌍  I'm based in Indonesia
