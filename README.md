@@ -48,11 +48,11 @@ Software Engineer
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFao5OEi9JeV82iNspRcGmwRJWN3ZttXduA&usqp=CAU" width="36" height="36" alt="Leveldb" />
 </a>
 <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png" width="36" height="36" alt="Solidity" /></a>
-</p>
+  <img src="https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png" width="36" height="36" alt="Solidity" />
+</a>
 <a href="https://g.co/kgs/qADB6k" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPLyZmWC_WokNkTLa1PGAoO_SoUdWI1D8cgg3-GMTu2_CF6BsIc9WHompavK1kxgIw5w&usqp=CAU" width="36" height="36" alt="VB.NET" /></a>
-</p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPLyZmWC_WokNkTLa1PGAoO_SoUdWI1D8cgg3-GMTu2_CF6BsIc9WHompavK1kxgIw5w&usqp=CAU" width="36" height="36" alt="VB.NET" />
+</a>
 <a href="https://developer.android.com/kotlin" target="_blank" rel="noreferrer">
   <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="36" height="36" alt="Android Studio Kotlin" />
 </a>
