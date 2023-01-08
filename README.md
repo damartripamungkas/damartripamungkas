@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [portofolio](http://damartripamungkas.github.io)
-* ✉️  You can contact me at [damartripamungkas.gmail.com](mailto:damartripamungkas.gmail.com)
+* ✉️  You can contact me at [damartripamungkas@gmail.com](mailto:damartripamungkas@gmail.com)
 
 ### Skills
 <p align="left">
@@ -39,7 +39,7 @@ Software Engineer
 <a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-<a href="https://geth.ethereum.org/" target="_blank" rel="noreferrer"><img src="https://geth.ethereum.org/static/images/mascot.png" width="36" height="36" alt="Geth" /></a>
+<a href="https://geth.ethereum.org/" target="_blank" rel="noreferrer"><img src="https://geth.ethereum.org/favicon.ico" width="36" height="36" alt="Geth" /></a>
 <a href="https://eta.js.org/" target="_blank" rel="noreferrer"><img src="https://eta.js.org/img/logo.svg" width="36" height="36" alt="EtaJs" /></a>
 <a href="https://npmjs.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="36" height="36" alt="NpmJs" /></a>
 <a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/300/1*YVTFl1UEkt3_rkez-DIU9w.png" width="36" height="36" alt="TelegramBot" /></a>
@@ -57,7 +57,7 @@ Software Engineer
   <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="36" height="36" alt="Android Studio Kotlin" />
 </a>
 <a href="https://www.kodular.io" target="_blank" rel="noreferrer">
-  <img src="https://www.kodular.io/assets/logo.png" width="36" height="36" alt="Kodular Framework Builder" />
+  <img src="https://www.kodular.io/favicon.ico" width="36" height="36" alt="Kodular Framework Builder" />
 </a>  
 <a href="https://www.google.com/search?q=android+webview&oq=android+web&aqs=chrome.1.69i57j0i512l6j69i60.2998j0j1&sourceid=chrome&ie=UTF-8" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/android-webview/android-webview_512x512.png" width="36" height="36" alt="Android Web Viewer" />
