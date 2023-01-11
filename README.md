@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [portofolio](http://damartripamungkas.github.io)
+* 🖥️  See my portfolio at [portfolio](http://damartripamungkas.github.io)
 * ✉️  You can contact me at [damartripamungkas@gmail.com](mailto:damartripamungkas@gmail.com)
 
 ### Skills
