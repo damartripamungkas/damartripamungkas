@@ -1,4 +1,4 @@
-Hi 👋 My name is Damar Tri pamungkas
+Hi 👋 My name is Damar Tri Pamungkas
 ===================================
 
 Software Engineer
