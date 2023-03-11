@@ -71,7 +71,7 @@ Software Engineer
 
 ### GitHub Stats
 <a href="http://www.github.com/damartripamungkas"><img src="https://github-readme-stats.vercel.app/api?username=damartripamungkas&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="damartripamungkas's GitHub stats" /></a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damartripamungkas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=damartripamungkas&theme=dark&hide_border=false&title_color=3382ed&include_all_commits=true&count_private=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=damartripamungkas&icon=0&color=0)](https://visitcount.itsvg.in)
