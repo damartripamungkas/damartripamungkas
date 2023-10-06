@@ -1,7 +1,7 @@
 <!-- ![readmebox](https://github.com/damartripamungkas/damartripamungkas/assets/82322639/61ac40db-e670-4e8a-8044-87c03f8cda50) -->
 <!-- ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="330" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="400" />
 
 Hi 👋 My name is Damar Tri Pamungkas
 ===================================
