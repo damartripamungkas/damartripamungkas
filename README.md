@@ -3,10 +3,9 @@
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="420" />
 
-Hi 👋 My name is Damar Tri Pamungkas
+Hi 👋 My name is Damar
 ===================================
 
-* 🌍  I'm based in Indonesia
 * 📚  Visit my portfolio [damarts.dev](https://damarts.dev)
 * ✉️  You can contact me at telegram [@damartripamungkas](https://t.me/damartripamungkas)
 
