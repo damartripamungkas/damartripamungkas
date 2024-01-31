@@ -1,11 +1,12 @@
 <!-- ![readmebox](https://github.com/damartripamungkas/damartripamungkas/assets/82322639/61ac40db-e670-4e8a-8044-87c03f8cda50) -->
 <!-- ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="420" />
+<img align="center" alt="GIF" src="https://news.cryptoizresearch.com/wp-content/uploads/2021/09/BlockChain_System.jpg" width="100%" height="100%" />
 
 Hi 👋 My name is Damar
 ===================================
 
+* 📚  Software engineer & Blockchain developer
 * 📚  Visit my portfolio [damarts.dev](https://damarts.dev)
 * ✉️  You can contact me at telegram [@damartripamungkas](https://t.me/damartripamungkas)
 
