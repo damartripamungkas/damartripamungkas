@@ -1,7 +1,7 @@
 Hi 👋 My name is Damar
 ===================================
 
-* 📚  Visit my portfolio [here](https://damartripamungkas-github-io.vercel.app/)
+* 📚  Visit my portfolio [here](https://damarts.xyz)
 * ✉️  You can contact me at telegram [@damartripamungkas](https://t.me/damartripamungkas)
 
 ### Tech Stack
