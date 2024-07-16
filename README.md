@@ -1,6 +1,7 @@
 Hi 👋 My name is Damar
 ===================================
 
+* 💥  Software engineer | Blockchain developer
 * 📚  Visit my portfolio [here](https://damarts.xyz)
 * ✉️  You can contact me at telegram [@damartripamungkas](https://t.me/damartripamungkas)
 
