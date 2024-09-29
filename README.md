@@ -1,4 +1,4 @@
-Hi 👋 My name is Damar
+Hi there 👋
 ===================================
 
 * 💥  Software engineer | Ai developer | Blockchain developer
