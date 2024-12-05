@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-* 💥  Software engineer | Ai developer | Blockchain developer
+* 💥  Software developer
 * 📚  Visit my portfolio [here](https://damarts.xyz)
 * ✉️  You can contact me at telegram [here](https://t.me/damartripamungkas)
 
