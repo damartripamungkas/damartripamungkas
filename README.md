@@ -1,8 +1,7 @@
 <h1>Hi there 👋</h1>
 
 * 💥  Software developer
-* 📚  Visit my portfolio [here](https://damarts.xyz)
-* ✉️  You can contact me at telegram [here](https://t.me/damartripamungkas)
+* 📚  Visit my portfolio
 
 ### Open for Collaboration
 I'm open to collaborating on interesting, impactful projects on a professional basis. If you think my skills could add value to your ideas, feel free to reach out so we can discuss potential opportunities. Looking forward to building something meaningful together!
