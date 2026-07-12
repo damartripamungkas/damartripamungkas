@@ -20,9 +20,6 @@ Now **Founder @Gramstax**, building Telegram bot framework and Web3 tooling; shi
 - 🤖 **[botdexdamar](https://github.com/damartripamungkas/botdexdamar)** (193★) - Multiblockchain trading bot with sniper, simulation, frontrun, backrun, sandwich
 - 🏢 **[gramstax](https://github.com/gramstax/gramstax)** - Powerful Telegram bot framework with page-based routing and template system
 - 🚗 **[storecar](https://storecar.vercel.app)** - Web3 dapp to trade car with Solidity smart contracts on EVM/BSC testnet
-- 🛩️ **[telegram-bot-newsletter](https://github.com/damartripamungkas/telegram-bot-newsletter)** (2★) - Telegram context newsletter with text, photo, and video broadcast
-- 🔐 **[custom-key-wallet-crypto](https://github.com/damartripamungkas/custom-key-wallet-crypto)** - Crypto wallet key generator from custom words
-- 📊 **[simple-dashboard-next-14](https://github.com/damartripamungkas/simple-dashboard-next-14)** - Next.js 14 dashboard with TypeScript, Tailwind, DaisyUI, Sequelize, MySQL
 - 📦 **[NPM Packages](https://www.npmjs.com/~damartripamungkas)** - TypeScript/JS/Web3 libraries I maintain
 
 ## Current Projects
