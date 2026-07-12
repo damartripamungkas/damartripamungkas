@@ -18,7 +18,7 @@ Now **Founder @Gramstax**, building Telegram bot framework and Web3 tooling; shi
 ## Start Here
 
 - 🤖 **[botdexdamar](https://github.com/damartripamungkas/botdexdamar)** (193★) - Multiblockchain trading bot with sniper, simulation, frontrun, backrun, sandwich
-- 🏢 **[gramstax](https://github.com/gramstax/gramstax)** - Telegram bot framework
+- 🏢 **[gramstax](https://github.com/gramstax/gramstax)** - Powerful Telegram bot framework with page-based routing and template system
 - 🚗 **[storecar](https://storecar.vercel.app)** - Web3 dapp to trade car with Solidity smart contracts on EVM/BSC testnet
 - 🛩️ **[telegram-bot-newsletter](https://github.com/damartripamungkas/telegram-bot-newsletter)** (2★) - Telegram context newsletter with text, photo, and video broadcast
 - 🔐 **[custom-key-wallet-crypto](https://github.com/damartripamungkas/custom-key-wallet-crypto)** - Crypto wallet key generator from custom words
@@ -28,7 +28,7 @@ Now **Founder @Gramstax**, building Telegram bot framework and Web3 tooling; shi
 ## Current Projects
 
 ### Gramstax & Telegram Automation
-- 🏢 **[gramstax](https://github.com/gramstax/gramstax)** - Telegram bot framework
+- 🏢 **[gramstax](https://github.com/gramstax/gramstax)** - Powerful Telegram bot framework with page-based routing and template system
 - 🛩️ **[telegram-bot-newsletter](https://github.com/damartripamungkas/telegram-bot-newsletter)** - Bot Telegram context newsletter; broadcast text, photo, and video
 
 ### Web3 & Blockchain
@@ -61,7 +61,7 @@ Now **Founder @Gramstax**, building Telegram bot framework and Web3 tooling; shi
 
 ## What I'm Doing
 
-- **Founding Gramstax** - Building Telegram-first automation products
+- **Founding Gramstax** - Powerful Telegram bot framework with page-based routing and template system
 - **Shipping Telegram bots** - Trading automation, newsletters, and context bots
 - **Writing TypeScript** - Strictly typed Web3 dapps, dashboards, and npm packages
 - **Exploring Web3** - Solidity smart contracts, EVM tooling, and dapps
