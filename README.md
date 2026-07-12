@@ -53,6 +53,7 @@ Now **Founder @Gramstax**, building Telegram bot framework and Web3 tooling; shi
 - 🔐 **[safe-my-text](https://github.com/damartripamungkas/safe-my-text)** (4★) - Encrypt your text before storing it
 - 🔒 **[node-hash-password](https://github.com/damartripamungkas/node-hash-password)** (2★) - Hash your password before storing it on database
 - 🖥️ **[logging-pretty](https://github.com/damartripamungkas/logging-pretty)** (2★) -  Logging your message with pretty color
+- 📦 **[NPM Packages](https://www.npmjs.com/~damartripamungkas)** - Web3/TypeScript/JS packages for backend, frontend, and blockchain
 
 ## GitHub Activity
 
