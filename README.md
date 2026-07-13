@@ -75,4 +75,4 @@ Now **Founder @Gramstax**, building Telegram bot framework and Web3 tooling; shi
 
 ### Philosophy
 
-> "Automate the boring, scale the rest." - I build tools to solve real problems, from chatbots to decentralized apps, with a strong focus on type safety and clean architecture as Founder of Gramstax.
+> "Automate the boring, scale the rest." - I build tools to solve real problems, from chatbots to decentralized apps, with a strong focus on type safety and clean architecture.
