@@ -35,22 +35,12 @@ Now **Founder @Gramstax**, building Telegram bot framework and Web3 tooling; shi
 - 📦 **[NPM Packages](https://www.npmjs.com/~damartripamungkas)** - Web3/TypeScript/JS packages for backend, frontend, and blockchain
 
 ### Fullstack & Web
-- 🎉 **[awesome-login-web](https://github.com/damartripamungkas/awesome-login-web)** (8★) - Awesome Login Web A collection of sleek, modern
 - 📠 **[ehq-absensi](https://github.com/damartripamungkas/ehq-absensi)** - QR-code attendance software with hardware QR scanner
-- 📊 **[simple-dashboard-next-14](https://github.com/damartripamungkas/simple-dashboard-next-14)** (2★) - Next.js 14 + TypeScript + Tailwind + DaisyUI + Sequelize + MySQL dashboard
 - 🌐 **[damartripamungkas-github-io](https://github.com/damartripamungkas/damartripamungkas.github.io)** - Simple personal website portfolio
 - 🖼️ **[universal-frame-grid](https://github.com/damartripamungkas/universal-frame-grid)** - Universal Frame Grid for viewing/managing web streams in a responsive grid
 - 🔑 **[strongpg](https://github.com/damartripamungkas/strongpg)** - Strong password generator for internet accounts
-- 🧾 **[demo-task-dashboard-mgg-11](https://github.com/damartripamungkas/demo-task-dashboard-mgg-11)** (4★) - Demo task dashboard with HTML, CSS, Bootstrap, JS
-- 🌟 **[demo-task-landingpage-mgg-11](https://github.com/damartripamungkas/demo-task-landingpage-mgg-11)** - Demo landing page with HTML, CSS, Bootstrap, JS
-- 📄 **[simple-portfolio-markdown](https://github.com/damartripamungkas/simple-portfolio-markdown)** - Web portfolio using a single markdown file
 - 🏆 **[madig](https://github.com/damartripamungkas/madig)** - Contribution project for Maspion Madig 2023 competition
-
-### Tools 
-- 🔐 **[safe-my-text](https://github.com/damartripamungkas/safe-my-text)** (4★) - Encrypt your text before storing it
-- 🔒 **[node-hash-password](https://github.com/damartripamungkas/node-hash-password)** (2★) - Hash your password before storing it on database
-- 🖥️ **[logging-pretty](https://github.com/damartripamungkas/logging-pretty)** (2★) -  Logging your message with pretty color
-- 📦 **[NPM Packages](https://www.npmjs.com/~damartripamungkas)** - Web3/TypeScript/JS packages for backend, frontend, and blockchain
+- 🎉 **[awesome-login-web](https://github.com/damartripamungkas/awesome-login-web)** (8★) - Awesome Login Web A collection of sleek, modern
 
 ## GitHub Activity
 
